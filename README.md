@@ -19,11 +19,10 @@ Basics of Machine Learning Algorithm
 **BENEFITS of LOGIN:**
 Entering into the system (Registration)
 Every single type of user except admin will go through initial phase i.e. registration in order to start with the system.
-The registration process will not be exactly same for all type of users. The following are the common requirement fields:
-•	**UserName** – The user will be asked to enter his / her full name. 
-•	**Password** – It is the key field which will help the user to have secure account in the system. 
-**Login**
-This is also the main common feature of the hospital Management	system.
+The registration process will not be exactly same for all type of users. The following are the common requirement fields:\
+•	**UserName** – The user will be asked to enter his / her full name. \
+•	**Password** – It is the key field which will help the user to have secure account in the system. \
+**Login** : This is also the main common feature of the hospital Management	system.\
 Every type of user will have to enter his / her unique id as login id and their passwords which keeps them private and safe. 
 
 **Account Details** :The user will first create his account in the database. For that he needs to sign up using a name and a password. After his account detaiks are stored he can log into the database.

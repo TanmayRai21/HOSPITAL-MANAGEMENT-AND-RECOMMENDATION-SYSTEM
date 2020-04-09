@@ -4,7 +4,7 @@ Based on patient satisfaction Survey using KNN algorithm to recommend the best r
 # Prerequisites
 Advanced C++ (Complete Data Structure is must)\ 
 KNN Algorithm\
-Basics of Machine Learning Algorithm\
+Basics of Machine Learning Algorithm
 
 **Key Features**
 •	Multi user account system\
@@ -14,7 +14,7 @@ Basics of Machine Learning Algorithm\
 •	Responsive User Interfaces\
 •	Rated hospital lists.\
 •	Prescribed hospital \
-•	Best available doctors.\
+•	Best available doctors.
 
 **BENEFITS of LOGIN:**
 Entering into the system (Registration)

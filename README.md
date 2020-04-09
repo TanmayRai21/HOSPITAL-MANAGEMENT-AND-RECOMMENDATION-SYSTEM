@@ -2,11 +2,11 @@
 Based on patient satisfaction Survey using KNN algorithm to recommend the best rated hospital and most recommended doctor to improve general hospital operations.
 
 # Prerequisites
-Advanced C++ : Complete Data Structure is must\
+Advanced C++ (Complete Data Structure is must)\
 KNN Algorithm\
 Basics of Machine Learning Algorithm
 
-**Key Features**
+**Key Features**\
 •	Multi user account system\
 •	Monitoring the whole hospital system \
 •	Management of all type of users’ account \

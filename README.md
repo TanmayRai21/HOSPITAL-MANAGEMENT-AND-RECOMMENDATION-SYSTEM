@@ -36,6 +36,6 @@ Every type of user will have to enter his / her unique id as login id and their 
 **KNN Algorithm** : We have to use KNN Algorithm to predict which doctor is the most suitable for the patient. The patient needs to enter his budget and disease as well as location or hospital (i.e. the basics to know about his location and budget) and the most efficient recommendation will be suggested to him.
 
 # BY
-**_Tanmay Rai_**
-**_Rachit Srivastava_**
+**_Tanmay Rai_**\
+**_Rachit Srivastava_**\
 **_Rohan Datta_**

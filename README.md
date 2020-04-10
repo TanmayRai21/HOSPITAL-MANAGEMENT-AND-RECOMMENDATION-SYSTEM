@@ -3,7 +3,7 @@ Based on patient satisfaction Survey using KNN algorithm to recommend the best r
 
 # Prerequisites
 Advanced C++ (Complete Data Structure is must)\
-KNN Algorithm\
+KNN Algorithm
 
 **Key Features**\
 •	Multi user account system\

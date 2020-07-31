@@ -656,7 +656,7 @@ int main()
         system("cls");
         cout<<"\n\t\t\t\t\tMENU\n";
     cout<<"--------------------------------------------------------------------------------";
-        cout<<"\n1) Add New Hospital\n\n2) View Hospital Details\n\n3) Display All Records\n\n4) Hospitals near me\n\n5)Cluster by rating\n\nEnter your choice:";
+        cout<<"\n1) Add New Hospital\n\n2) View Hospital Details\n\n3) Display All Records\n\n4) Hospitals near me\n\n5)Recommend Doctor \n\nEnter your choice:";
         cin>>opt;
 
             switch(opt)

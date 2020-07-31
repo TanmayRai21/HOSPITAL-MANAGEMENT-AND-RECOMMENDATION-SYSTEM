@@ -13,7 +13,7 @@ int cloc=0;
 void Check_if_hsptl_exists_and_print();
 void Write_To_File();
 void sortloc(int);
-void hoesnearme(string);
+void hosnearme(string);
 void printlist();
 void del();
 struct cluster
@@ -466,7 +466,7 @@ int searchhos(hospital h)
         }
         return(1);}
 }
-void hoesnearme(string l)
+void hosnearme(string l)
 {
 
     f2.open("hospitaldetails.dat",ios::in|ios::binary);
@@ -671,7 +671,7 @@ int main()
                             break;
                 case '4' : cout<<"\nEnter your location: ";
                            cin>>s;
-                           hoesnearme(s);
+                           hosnearme(s);
                             break;
                 case '5' : cout<<"\nEnter the name of hospital and then disease : "<<endl;
                            cin>>nom;
